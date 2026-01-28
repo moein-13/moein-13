@@ -1,5 +1,5 @@
-## Hi there 👋
-I am Moein. Still learning.
+## Hi i'm Moein 👋
+learning.
 
 - 🔭 I’m currently working on ML/Data Science projects.
 - 🌱 I’m currently learning Deep learning concepts.
