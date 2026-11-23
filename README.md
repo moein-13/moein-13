@@ -1,10 +1,8 @@
 ## Hi i'm Moein 👋
-learning.
 
 - 🔭 I’m currently working on ML/Data Science projects.
 - 🤔 I’m looking for help with NLP stuffs.
 - 📫 Reach me on FB & Insta.
-- ⚡ Fun fact i don't like code.
 
 
 ## 🌐 Socials:
